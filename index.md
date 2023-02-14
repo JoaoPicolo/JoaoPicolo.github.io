@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# Projects
+## Projects
 
-[Project Page](./another-page.html).
+[Project Page](./another-page.html)
